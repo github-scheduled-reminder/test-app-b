@@ -10,4 +10,4 @@ notifications:
             - bbaga
             - kissanita88
         - type: search-issues
-          query: "label: \"help wanted\""
+          query: "label:\"help wanted\""
