@@ -3,3 +3,9 @@ notifications:
   - extending: 
       repository: bbaga/app-testing
       name: multirepo
+    config:
+      sources:
+        - type: search-prs-by-reviewers
+          users:
+            - bbaga
+            - kissanita88
