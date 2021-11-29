@@ -9,3 +9,5 @@ notifications:
           users:
             - bbaga
             - kissanita88
+        - type: search-issues
+          query: "label: \"help wanted\""
